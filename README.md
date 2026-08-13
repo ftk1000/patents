@@ -2,11 +2,14 @@
 2025.12.17
 
 * https://www.uspto.gov/learning-and-resources/uspto-videos/search-inventor-name?utm_source=chatgpt.com
-
+* https://ppubs.uspto.gov/pubwebapp
+* 
 ```
 khafizov.IN.
 
 ```
+
+--------------
 
 Find all issued patents where coinventor is Farid Khafizov and owner of the patent is one of the following companies Nortel, Nortel Networks, Huawei, OIN, Verizon
 
