@@ -5,7 +5,14 @@
 * https://ppubs.uspto.gov/pubwebapp
 * 
 ```
-khafizov.IN.
+khafizov.IN.                     46
+
+(farid NEAR2 khafizov).IN.       33
+
+(farid NEAR3 khafizov).IN.       33
+
+
+
 
 ```
 
